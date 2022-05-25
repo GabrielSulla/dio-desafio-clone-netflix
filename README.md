@@ -1,2 +1,2 @@
-# dio-desafio-clone-netflix
+# Desafio da dio Netflix
 Recriando a interface da Netflix
